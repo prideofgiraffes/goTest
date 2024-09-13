@@ -8,4 +8,6 @@ func main() {
 	var password string = "Aliakbar"
 
 	fmt.Println("Authorization: Basic", username+" Luchshiy "+password)
+
+	fmt.Println("Feature branch")
 }
