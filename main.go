@@ -8,4 +8,8 @@ func main() {
 	var password string = "Aliakbar"
 
 	fmt.Println("Authorization: Basic", username+" Luchshiy "+password)
+
+	var something_new string = "New"
+
+	fmt.Println(something_new)
 }
